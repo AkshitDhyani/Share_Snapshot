@@ -5,18 +5,23 @@ It is a messaging app built on Flutter Framework which uses Firebase as a backen
 ## SneakPeak of the App
 
 Registering User
+
 <img src="https://user-images.githubusercontent.com/43682796/90866477-97940c00-e3b1-11ea-815e-55868db2b904.gif" width="230" height="400" />
 
 Uploading Photo
+
 <img src="https://user-images.githubusercontent.com/43682796/90867051-6cf68300-e3b2-11ea-93ac-ebd5c02ff67b.gif" width="230" height="400" />
 
 User Profile
+
 <img src="https://user-images.githubusercontent.com/43682796/90867051-6cf68300-e3b2-11ea-93ac-ebd5c02ff67b.gif" width="230" height="400" />
 
 Search User
+
 <img src="https://user-images.githubusercontent.com/43682796/90867653-5ac91480-e3b3-11ea-9a08-9c7fb35376e7.gif" width="230" height="400" />
 
 Message Screen
+
 <img src="https://user-images.githubusercontent.com/43682796/90867311-d5456480-e3b2-11ea-8af2-57cf52085f55.gif" width="230" height="400" />
 
 ### ScreenShots of the App
