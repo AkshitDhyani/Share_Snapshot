@@ -14,7 +14,7 @@ Uploading Photo
 
 User Profile
 
-<img src="https://user-images.githubusercontent.com/43682796/90867051-6cf68300-e3b2-11ea-93ac-ebd5c02ff67b.gif" width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/43682796/90870077-b9dc5880-e3b6-11ea-9710-ccde8e73e3d4.gif" width="230" height="400" />
 
 Search User
 
