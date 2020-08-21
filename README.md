@@ -26,9 +26,13 @@ Message Screen
 
 ### ScreenShots of the App
 
-<img src="https://user-images.githubusercontent.com/43682796/90612899-4acffa00-e226-11ea-9edd-2d45d31ed42d.png" width="230" height="400" /> <img src="https://user-images.githubusercontent.com/43682796/90612921-515e7180-e226-11ea-8448-95e3ccb6b1c1.png" width="230" height="400" /> <img src="https://user-images.githubusercontent.com/43682796/90612928-51f70800-e226-11ea-936f-70a63ba2a5e6.png" width="230" height="400" />
 
-<img src="https://user-images.githubusercontent.com/43682796/90612930-53283500-e226-11ea-8916-74c4f51eb81e.png" width="230" height="400" /> <img src="https://user-images.githubusercontent.com/43682796/90612935-54596200-e226-11ea-8ea8-ab5b53efbc58.png" width="230" height="400" />
+
+
+<img src="https://user-images.githubusercontent.com/43682796/90866149-18063d00-e3b1-11ea-8ce5-f19510635bba.png" width="230" height="400" /> <img src="https://user-images.githubusercontent.com/43682796/90866139-13418900-e3b1-11ea-89db-6c51fe2d8c48.png" width="230" height="400" /> <img src="https://user-images.githubusercontent.com/43682796/90866159-1ccaf100-e3b1-11ea-863b-785829c3d9de.png" width="230" height="400" />
+
+<img src="https://user-images.githubusercontent.com/43682796/90866154-1a689700-e3b1-11ea-9897-30a782101af3.png" width="230" height="400" /> <img src="https://user-images.githubusercontent.com/43682796/90866152-19376a00-e3b1-11ea-9a8a-02c48abd7bcb.png" width="230" height="400" />
+
 
 
 
